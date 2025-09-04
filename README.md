@@ -1,6 +1,8 @@
-# Bouncy Hsm
+# Bouncy Hsm - Fork 
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/harrison314/BouncyHsm)
-[![NuGet Status](http://img.shields.io/nuget/v/BouncyHsm.Client.svg?style=flat)](https://www.nuget.org/packages/BouncyHsm.Client/)
+![GitHub License](https://img.shields.io/github/license/harrison314/BouncyHsm)
+
+# Bouncy Hsm 
 ![GitHub License](https://img.shields.io/github/license/harrison314/BouncyHsm)
 
 _Bouncy Hsm_ is an developer friendly implementation of a cryptographic store accessible through a PKCS#11 interface.
@@ -78,3 +80,4 @@ See more rules in [CONTRIBUTING](/.github/CONTRIBUTING.md).
 * [Software Ideas Modeler](https://www.softwareideas.net/) - tool in which the diagrams in the documentation were drawn
 * [NSwag studio](https://github.com/RicoSuter/NSwag/wiki/NSwagStudio) - tool for generate OpenApi client
 * [Ako som robil BouncyHsm](https://harrison314.github.io/BouncyHsm.html) - My blog post about BouncyHsm development, technological decisions and reasons for development - in Slovak language
+
