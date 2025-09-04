@@ -1,6 +1,8 @@
 # Bouncy Hsm - Fork 
-![GitHub release (with filter)](https://img.shields.io/github/v/release/harrison314/BouncyHsm)
-![GitHub License](https://img.shields.io/github/license/harrison314/BouncyHsm)
+
+This is a Fork of the BouncyHSM Project. Based on Version 1.6.0
+
+The purpose of this fork is to test DES crypto functionalities with BouncyHSM.
 
 # Bouncy Hsm 
 ![GitHub License](https://img.shields.io/github/license/harrison314/BouncyHsm)
@@ -80,4 +82,5 @@ See more rules in [CONTRIBUTING](/.github/CONTRIBUTING.md).
 * [Software Ideas Modeler](https://www.softwareideas.net/) - tool in which the diagrams in the documentation were drawn
 * [NSwag studio](https://github.com/RicoSuter/NSwag/wiki/NSwagStudio) - tool for generate OpenApi client
 * [Ako som robil BouncyHsm](https://harrison314.github.io/BouncyHsm.html) - My blog post about BouncyHsm development, technological decisions and reasons for development - in Slovak language
+
 
